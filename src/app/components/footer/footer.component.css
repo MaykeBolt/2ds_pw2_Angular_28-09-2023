@@ -1,0 +1,11 @@
+.footerdaora {
+    position: fixed;
+    bottom: 0;
+    background: linear-gradient(to left, rgb(255, 145, 0), rgb(255, 0, 157), rgb(7, 255, 255));
+    padding: 1px 17px 1px 10px;
+}
+
+.texto2 {
+    color: rgb(255, 241, 165);
+    text-shadow: 0 0 10px rgb(255, 223, 44);
+}
